@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "/home/harini/R/i686-pc-linux-gnu-library/3.1"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "C:/Documents and Settings/eavanih/My Documents/R/R-3.0.2/library"
+    }
+}

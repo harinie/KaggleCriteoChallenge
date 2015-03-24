@@ -1,0 +1,9 @@
+{
+    "path" : "~/Dropbox/kaggle/Criteo/RCriteo",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
